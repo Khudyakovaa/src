@@ -1,6 +1,6 @@
 package com.getjavajob.training.algo.init.khudyakovaa;
 
-import java.util.Scanner;
+        import java.util.Scanner;
 
 class Task01_003 {
     public static void main(String args[]){
